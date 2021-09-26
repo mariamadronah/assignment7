@@ -95,22 +95,31 @@ body{
     color: white;
     opacity: 50%;
     display: inline-block;
+    font-family:Arial, Helvetica, sans-serif;
+    word-spacing: 0%;
 }
 #help{
     color: white;
     opacity: 50%;
     float: right;
     margin-right: 20%;
+    font-family:Arial, Helvetica, sans-serif;
+
 }
 .R1{
     color: white;
     opacity: 50%;
+    display: inline-block;
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: px;
 }
 #c1{
     margin-bottom:0px ; 
     margin-top: 5px;
     text-align:justify; 
     padding-right: 45px;
+    letter-spacing: ;
+    word-spacing: -2.4555px;
 }
 #sign{
     opacity: 100%;
@@ -119,3 +128,13 @@ body{
     color: #0071eb;
     opacity: 100%;
 }
+#check{
+    float: inline-start;
+    /* box-sizing: border-box 40px; */
+    max-width: -30%;
+    max-height: -30%;
+
+}
+/* #c1{
+    word-spacing: 50%;
+} */
