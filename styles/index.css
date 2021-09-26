@@ -10,22 +10,25 @@ body{
 } */
 .container{
     background-color: #333;
-    margin-top: 10%;
+    margin-top: 2%;
     margin-bottom: 10%; 
     margin-right: 200px;
     margin-left: 400px;
-    max-height: 700px;
-    max-width: 600px;
+    max-height: 350px;
+    max-width: 500px;
     border: black;
-    padding-top: 10%;
-    padding-bottom: 10%;
+    padding-top: 2%;
+    padding-bottom: 15%;
     opacity: 0.9;
 }
 .net{
-    height: 4px;
-    width: 50px;
+    max-height: 2px;
+    max-width: 1px;
     cursor: pointer;
     margin-bottom: 0%;
+    padding-bottom: 8%;
+    padding-top: 0%;
+   
 }
 .fb{
     width: 20px;
@@ -42,6 +45,7 @@ body{
     margin-bottom:5%;
     padding-top:2%;
     padding-bottom: 2%;
+    
 }
 .content{
     margin-left: 80px;
