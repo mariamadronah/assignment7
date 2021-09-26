@@ -1,5 +1,5 @@
 body{
-    background-image: url(/images/photo_2021-09-25_06-16-52.jpg); /*download the image and link*/
+    background-image: url(/images/movie-collage-wallpaper-preview\ new.jpg); /*download the image and link*/
     background-size: 800px;
     background-color: white; /*temporary*/
 
@@ -108,11 +108,14 @@ body{
 }
 #c1{
     margin-bottom:0px ; 
-    margin-top: 5px;  
+    margin-top: 5px;
+    text-align:justify; 
+    padding-right: 45px;
 }
 #sign{
     opacity: 100%;
 }
 .me{
     color:blue;
+    opacity: 100%;
 }
